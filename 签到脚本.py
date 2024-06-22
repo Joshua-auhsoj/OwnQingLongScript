@@ -76,7 +76,7 @@ cw_params.update({
 
 def tasks(url, params, headers, type):
     response = requests.get(url, params=params, headers=headers)
-    print(response.text)
+   # print(response.text)
     response.encoding = 'utf-8'
     data = response.text
 
