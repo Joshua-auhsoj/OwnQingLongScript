@@ -2,7 +2,7 @@ import requests
 import os
 import xml.etree.ElementTree as ET
 
-cookie_value = os.getenv('COOKIE')
+cookie_value = os.getenv('SOUTHPLUSCOOKIE')
 cookies = {cookie.split('=')[0]: cookie.split('=')[1] for cookie in cookie_value.split('; ')}
 
 
