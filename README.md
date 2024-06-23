@@ -7,8 +7,7 @@ COOKIE值示例
 _ga=值; _gid=值; eb9e6_cknum=值D; eb9e6_ck_info=值; eb9e6_winduser=值D; eb9e6_readlog=值; eb9e6_ol_offset=值; eb9e6_lastpos=值; _gat=1; _ga_3G0BZEH5V0=值; eb9e6_lastvisit=值
 ```
 cookie两端不带引号，打开chrome的F12菜单，在“请求标头”中可以复制  
-饿了么签到基于[Leafthefish](https://github.com/leafTheFish/DeathNote)修改而来  
-去混淆，去广告，去服务器验证，尚需修改，欢迎提交Pull requests  
+
 丑团签到基于[Leafthefish](https://github.com/leafTheFish/DeathNote)修改而来  
 去混淆，去广告，去服务器验证，可正常使用  
 
