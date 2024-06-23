@@ -10,5 +10,6 @@ cookie两端不带引号，打开chrome的F12菜单，在“请求标头”中�
 饿了么签到基于[Leafthefish](https://github.com/leafTheFish/DeathNote)修改而来  
 去混淆，去广告，去服务器验证，尚需修改，欢迎提交Pull requests  
 丑团签到基于[Leafthefish](https://github.com/leafTheFish/DeathNote)修改而来  
-去混淆，去广告，去服务器验证，可正常使用
+去混淆，去广告，去服务器验证，可正常使用  
 
+**推荐一个很好的[JS去混淆](https://github.com/kuizuo/js-deobfuscator)仓库**  
